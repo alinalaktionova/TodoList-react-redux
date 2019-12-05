@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Connected React-Redux Component should render with given state from Redux store 1`] = `
+<div
+  className="sc-gzVnrw ARDTO"
+>
+  <h1
+    className="sc-htoDjs cZhAiA"
+  >
+    ToDo list
+  </h1>
+  <div
+    className="sc-ifAKCX hsmLUJ"
+  >
+    <input
+      className="sc-EHOje eqDocV"
+      onChange={[Function]}
+      placeholder="add a todo item"
+      type="text"
+    />
+    <button
+      className="sc-bZQynM hJssYL"
+      onClick={[Function]}
+      type="button"
+    >
+      + Add
+    </button>
+  </div>
+  <ul
+    className="sc-htpNat lcxLoP"
+  >
+    <button
+      className="sc-bxivhb hAhGGw"
+      onClick={[Function]}
+      type="button"
+    >
+      delete all
+    </button>
+  </ul>
+</div>
+`;

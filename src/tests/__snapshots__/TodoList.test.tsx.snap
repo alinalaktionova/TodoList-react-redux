@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Connected React-Redux Component should dispatch an action on button click 1`] = `
+<ul
+  className="sc-htpNat lcxLoP"
+>
+  <li
+    className="sc-bdVaJa fbSIgk"
+    onClick={[Function]}
+    style={
+      Object {
+        "textDecoration": "none",
+      }
+    }
+  >
+    <p />
+    <span
+      className="sc-bwzfXH ibHVFN"
+    >
+      <i
+        className="fas fa-trash-alt"
+        onClick={[Function]}
+      />
+    </span>
+  </li>
+  <button
+    className="sc-bxivhb hAhGGw"
+    onClick={[Function]}
+    type="button"
+  >
+    delete all
+  </button>
+</ul>
+`;
+
+exports[`My Connected React-Redux Component should render with given state from Redux store 1`] = `
+<ul
+  className="sc-htpNat lcxLoP"
+>
+  <li
+    className="sc-bdVaJa fbSIgk"
+    onClick={[Function]}
+    style={
+      Object {
+        "textDecoration": "none",
+      }
+    }
+  >
+    <p />
+    <span
+      className="sc-bwzfXH ibHVFN"
+    >
+      <i
+        className="fas fa-trash-alt"
+        onClick={[Function]}
+      />
+    </span>
+  </li>
+  <button
+    className="sc-bxivhb hAhGGw"
+    onClick={[Function]}
+    type="button"
+  >
+    delete all
+  </button>
+</ul>
+`;
